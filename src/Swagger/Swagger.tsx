@@ -6,7 +6,7 @@ import '../vendor.d.ts';
 import swaggerData from '../spec/swaggerUI.json';
 import config from "../config";
 
-function complete(sys: any) {
+function complete(sys: any){
   sys.preauthorizeApiKey('api_key', config.api_key);
 }
 
