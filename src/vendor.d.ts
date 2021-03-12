@@ -1,2 +1,2 @@
-declare module 'swagger-ui-react';
+declare module 'swagger-ui';
 declare module 'aws-amplify-react';
