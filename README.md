@@ -16,4 +16,4 @@ In the folder `src/spec` there is swagger spec sample, replace it by your own ðŸ
 
 ## Documentation
 
-Checkout my [blog post](https://noiselesstech.net/how-to-secure-swagger-documentation-for-internal-apis) about i.
+Checkout my [blog post](https://noiselesstech.net/how-to-secure-swagger-documentation-for-internal-apis) about.
