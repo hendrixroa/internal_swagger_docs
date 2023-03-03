@@ -13,3 +13,7 @@ and page (swagger definition hosted):
 ## Replace swagger spec file
 
 In the folder `src/spec` there is swagger spec sample, replace it by your own 😉. 
+
+## Documentation
+
+Checkout my [blog post](https://noiselesstech.net/how-to-secure-swagger-documentation-for-internal-apis) about i.
